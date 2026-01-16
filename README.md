@@ -130,4 +130,4 @@ To test your solution and see example output, use the provided `Demo.php` script
    ```
 
 The demo should print output to your terminal.  
-Feel free to modify `Demo.php` to showcase your classes and functions!
+Modify the `demo.php` file to showcase the capabilities of your classes and functions.
