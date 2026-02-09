@@ -2,8 +2,26 @@
 
 Welcome to the comprehensive PHP basics challenge!
 
-This assignment is designed to let you demonstrate your knowledge of core PHP features. You are NOT required to finish 
-everything — show as much structured PHP knowledge as you can.
+To get to know you better as part of your application for a working student position, we have prepared this small, 
+practical task. It is designed to let you demonstrate your knowledge of core PHP features and how you approach tasks 
+using modern tools like GitHub. Don't worry – it's not about perfection. We are more interested in seeing your 
+structured approach and clean, understandable code. You are not required to finish everything, but please show as much 
+of your knowledge as you can.
+
+Here’s how it works:
+
+1.  **Fork the Exercise Repository**: Create your own fork of our exercise repository on GitHub. This gives you your own 
+    copy where you can try everything out without changing the original. You can find the repository here: 
+    [https://github.com/Benefits-me/classroom-working-student-backend-development](https://github.com/Benefits-me/classroom-working-student-backend-development)
+
+2.  **Work on the Challenge**: Take your time to work on the exercise in your fork. We are particularly interested in 
+    how you approach the task. Clean, understandable code and brief explanations of your solutions help us to better 
+    understand your approach.
+
+3.  **Submit Your Result**: Simply share the link to your repository with us when you're done – it's that easy. We will 
+    then look at your solution and get back to you promptly with feedback or the next steps.
+
+If you have any questions at any point, feel free to write to us. Have fun with the task – we look forward to learning more about you and your style!
 
 ---
 
