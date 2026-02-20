@@ -4,12 +4,6 @@ declare(strict_types=1);
 
 namespace App\Traits;
 
-/**
- * Trait CanLogin
- *
- * Provides reusable login/logout functionality for any user class.
- * Traits allow sharing methods across multiple classes without inheritance.
- */
 trait CanLogin
 {
     /** @var bool Tracks whether the user is currently logged in. */
